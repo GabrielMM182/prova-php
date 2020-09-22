@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ATENDIMENTO AO CLIENTE</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="estilo.css">
 </head>
 
 <body>
@@ -45,7 +45,7 @@
 
 
 
-        <h4>Listagem de atendimentos</h4> <br>
+        <h4>Listagem  atendimentos</h4> <br>
         <table class="blueTable">
             <tr>
                 <td>Id</td>
